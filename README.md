@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+A new Flutter project. Using the same idea some guy long back used to create an ios app called i am rich, and priced it for $ 999.99 at the app store
 
 ## Getting Started
 
